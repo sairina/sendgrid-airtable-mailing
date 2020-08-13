@@ -1,0 +1,12 @@
+airtable-python-wrapper==0.13.0
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.10
+markdown2==2.3.9
+python-dotenv==0.14.0
+python-http-client==3.2.7
+requests==2.24.0
+sendgrid==6.4.5
+six==1.15.0
+starkbank-ecdsa==1.0.0
+urllib3==1.25.10
